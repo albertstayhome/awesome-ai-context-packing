@@ -31,6 +31,14 @@ Zero-dependency CLI tool that uses AI to automatically generate beautiful Conven
 - **Usage:** `npx github:albertstayhome/ai-commit-pro`
 - **Link:** [ai-commit-pro](https://github.com/albertstayhome/ai-commit-pro)
 
+## MCP Tools
+
+### 4. mcp-filesystem-pro
+A highly valuable, zero-dependency AI developer CLI tool to expose your local filesystem as an MCP server.
+
+- **Usage:** `npx github:albertstayhome/mcp-filesystem-pro`
+- **Link:** [mcp-filesystem-pro](https://github.com/albertstayhome/mcp-filesystem-pro)
+
 ## Contributing
 Feel free to open an issue or PR to add more tools to this list!
 
