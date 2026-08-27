@@ -23,7 +23,7 @@ Optimize your GitHub README for AI Search Engines (Perplexity, ChatGPT). If you 
 - **Usage:** `npx github:albertstayhome/aio-readme`
 - **Link:** [aio-readme](https://github.com/albertstayhome/aio-readme)
 
-## Bonus: AI Git Tools
+## Bonus: AI Git & Coding Tools
 
 ### 3. ai-commit-pro
 Zero-dependency CLI tool that uses AI to automatically generate beautiful Conventional Commits from your git diff.
@@ -31,10 +31,16 @@ Zero-dependency CLI tool that uses AI to automatically generate beautiful Conven
 - **Usage:** `npx github:albertstayhome/ai-commit-pro`
 - **Link:** [ai-commit-pro](https://github.com/albertstayhome/ai-commit-pro)
 
+### 4. ai-test-gen
+Zero-dependency CLI tool that reads a source file and automatically generates a complete unit test file using Gemini.
+
+- **Usage:** `npx github:albertstayhome/ai-test-gen <source-file>`
+- **Link:** [ai-test-gen](https://github.com/albertstayhome/ai-test-gen)
+
 ## MCP Tools
 
-### 4. mcp-filesystem-pro
-A highly valuable, zero-dependency AI developer CLI tool to expose your local filesystem as an MCP server.
+### 5. mcp-filesystem-pro
+Zero-dependency AI developer CLI tool serving as an MCP filesystem provider.as an MCP server.
 
 - **Usage:** `npx github:albertstayhome/mcp-filesystem-pro`
 - **Link:** [mcp-filesystem-pro](https://github.com/albertstayhome/mcp-filesystem-pro)
